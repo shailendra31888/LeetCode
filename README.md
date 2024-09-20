@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shailendra31888/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shailendra31888/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shailendra31888/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shailendra31888/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -100,6 +102,15 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shailendra31888/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra31888/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
