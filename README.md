@@ -8,11 +8,13 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra31888/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -121,5 +123,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
