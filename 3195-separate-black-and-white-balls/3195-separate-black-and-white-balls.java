@@ -1,9 +1,9 @@
 class Solution {
   public long minimumSteps(String s) {
-    var i = 0;
-    var res = 0L;
+    long i = 0;
+    long res = 0;
 
-    for (var j = 0; j < s.length(); j++) {
+    for (int j = 0; j < s.length(); j++) {
       if (s.charAt(j) == '0') {
         res += j - i;
         i++;
