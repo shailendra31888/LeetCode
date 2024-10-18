@@ -135,5 +135,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shailendra31888/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3195-separate-black-and-white-balls](https://github.com/shailendra31888/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shailendra31888/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
