@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shailendra31888/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/shailendra31888/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/shailendra31888/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shailendra31888/LeetCode/tree/master/0383-ransom-note) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shailendra31888/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
