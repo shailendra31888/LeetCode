@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra31888/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/shailendra31888/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shailendra31888/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/shailendra31888/LeetCode/tree/master/0792-binary-search) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shailendra31888/LeetCode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/shailendra31888/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [3195-separate-black-and-white-balls](https://github.com/shailendra31888/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/shailendra31888/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
