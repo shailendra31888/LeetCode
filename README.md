@@ -16,6 +16,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/shailendra31888/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/shailendra31888/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/shailendra31888/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shailendra31888/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
