@@ -17,6 +17,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/shailendra31888/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/shailendra31888/LeetCode/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
@@ -150,6 +151,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shailendra31888/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/shailendra31888/LeetCode/tree/master/0890-lemonade-change) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/shailendra31888/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -157,6 +159,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shailendra31888/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
@@ -177,6 +180,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shailendra31888/LeetCode/tree/master/0383-ransom-note) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Interactive
 |  |
 | ------- |
