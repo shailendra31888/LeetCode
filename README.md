@@ -10,6 +10,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shailendra31888/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/shailendra31888/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shailendra31888/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shailendra31888/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/shailendra31888/LeetCode/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shailendra31888/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shailendra31888/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shailendra31888/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
