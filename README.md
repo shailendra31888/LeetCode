@@ -183,6 +183,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shailendra31888/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/shailendra31888/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/shailendra31888/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/0020-valid-parentheses) |
