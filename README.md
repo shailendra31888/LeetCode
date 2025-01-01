@@ -11,6 +11,7 @@
 | [0041-first-missing-positive](https://github.com/shailendra31888/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shailendra31888/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shailendra31888/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shailendra31888/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shailendra31888/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -249,6 +250,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shailendra31888/LeetCode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailendra31888/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/shailendra31888/LeetCode/tree/master/3447-clear-digits) |
@@ -269,5 +271,6 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shailendra31888/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shailendra31888/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
