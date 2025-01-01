@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/shailendra31888/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/shailendra31888/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/shailendra31888/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shailendra31888/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shailendra31888/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shailendra31888/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/shailendra31888/LeetCode/tree/master/0169-majority-element) |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/shailendra31888/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
