@@ -1,27 +1,25 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        // Edge case: If the array is empty, return an empty string
-        if (strs == null || strs.length == 0) {
-            return "";
+        String c= strs[0];
+        for(int i=1;i<strs.length;i++){
+            c= common(c,strs[i]);
         }
-        
-        // Start by assuming the first string is the common prefix
-        String prefix = strs[0];
-        
-        // Compare the prefix with each string in the array
-        for (int i = 1; i < strs.length; i++) {
-            // Keep reducing the prefix until it matches the start of the current string
-            while (strs[i].indexOf(prefix) != 0) {
-                // Remove the last character from the prefix
-                prefix = prefix.substring(0, prefix.length() - 1);
-                
-                // If the prefix becomes empty, no common prefix exists
-                if (prefix.isEmpty()) {
-                    return "";
-                }
-            }
-        }
-        
-        return prefix;
+        return c;
     }
+public String common(String s1, String s2) {
+    int n = Math.min(s1.length(), s2.length()); 
+    int k = -1;
+
+    // Iterate through both strings up to the minimum length
+    for (int i = 0; i < n; i++) {
+        if (s1.charAt(i) != s2.charAt(i)) {
+            k = i;
+            break; // Mismatch found, stop the loop
+        }
+    }
+
+    // If no mismatch was found, return the whole prefix (from 0 to the min length of both strings)
+    return k == -1 ? s1.substring(0, n) : s1.substring(0, k);
+}
+
 }
