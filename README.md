@@ -182,6 +182,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shailendra31888/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/shailendra31888/LeetCode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailendra31888/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shailendra31888/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shailendra31888/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/shailendra31888/LeetCode/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -213,6 +215,7 @@
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/shailendra31888/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
 | [0383-ransom-note](https://github.com/shailendra31888/LeetCode/tree/master/0383-ransom-note) |
 | [1078-remove-outermost-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -251,6 +254,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shailendra31888/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
 ## Simulation
 |  |
 | ------- |
