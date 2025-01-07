@@ -221,6 +221,7 @@
 | [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/shailendra31888/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/shailendra31888/LeetCode/tree/master/0383-ransom-note) |
+| [0812-rotate-string](https://github.com/shailendra31888/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shailendra31888/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -287,4 +288,8 @@
 | [0048-rotate-image](https://github.com/shailendra31888/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shailendra31888/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shailendra31888/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
