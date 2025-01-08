@@ -62,6 +62,7 @@
 | [0739-daily-temperatures](https://github.com/shailendra31888/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shailendra31888/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra31888/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/shailendra31888/LeetCode/tree/master/3447-clear-digits) |
@@ -228,6 +229,7 @@
 | [0383-ransom-note](https://github.com/shailendra31888/LeetCode/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/shailendra31888/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra31888/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/shailendra31888/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/shailendra31888/LeetCode/tree/master/3195-separate-black-and-white-balls) |
