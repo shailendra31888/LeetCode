@@ -60,6 +60,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/shailendra31888/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shailendra31888/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shailendra31888/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shailendra31888/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -230,6 +231,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shailendra31888/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shailendra31888/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shailendra31888/LeetCode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/shailendra31888/LeetCode/tree/master/0394-decode-string) |
 | [0812-rotate-string](https://github.com/shailendra31888/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra31888/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -271,6 +273,7 @@
 | [0002-add-two-numbers](https://github.com/shailendra31888/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
+| [0394-decode-string](https://github.com/shailendra31888/LeetCode/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
