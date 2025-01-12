@@ -6,11 +6,11 @@ class Solution {
             if(!st.isEmpty() && Math.abs(st.peek()-s.charAt(i))==32 ) st.pop();
             else st.push(s.charAt(i));
         }
-        String ans="";
+        StringBuilder ans = new StringBuilder();
         for(char c:st){
-            ans+=c;
+            ans.append(c);
         }
-        return ans;
+        return ans.toString();
         
     }
 }
