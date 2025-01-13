@@ -42,6 +42,7 @@
 | [1720-crawler-log-folder](https://github.com/shailendra31888/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/shailendra31888/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailendra31888/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shailendra31888/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/shailendra31888/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/shailendra31888/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shailendra31888/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/shailendra31888/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -270,6 +272,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shailendra31888/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/shailendra31888/LeetCode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/shailendra31888/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shailendra31888/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
 | ------- |
