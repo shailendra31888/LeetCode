@@ -38,6 +38,7 @@
 | [0941-sort-array-by-parity](https://github.com/shailendra31888/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/shailendra31888/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailendra31888/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
@@ -70,6 +71,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra31888/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/shailendra31888/LeetCode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/shailendra31888/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/shailendra31888/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
@@ -239,6 +241,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra31888/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/shailendra31888/LeetCode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/shailendra31888/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2032-largest-odd-number-in-string](https://github.com/shailendra31888/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/shailendra31888/LeetCode/tree/master/3195-separate-black-and-white-balls) |
