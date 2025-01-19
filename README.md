@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/shailendra31888/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shailendra31888/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shailendra31888/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/shailendra31888/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shailendra31888/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shailendra31888/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shailendra31888/LeetCode/tree/master/0053-maximum-subarray) |
@@ -142,6 +143,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shailendra31888/LeetCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/shailendra31888/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shailendra31888/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shailendra31888/LeetCode/tree/master/0278-first-bad-version) |
