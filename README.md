@@ -46,6 +46,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/shailendra31888/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailendra31888/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shailendra31888/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/shailendra31888/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2756-buy-two-chocolates](https://github.com/shailendra31888/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -281,6 +282,7 @@
 | [1127-last-stone-weight](https://github.com/shailendra31888/LeetCode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/shailendra31888/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shailendra31888/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/shailendra31888/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 | [0054-spiral-matrix](https://github.com/shailendra31888/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/shailendra31888/LeetCode/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shailendra31888/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/shailendra31888/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shailendra31888/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/shailendra31888/LeetCode/tree/master/3447-clear-digits) |
 ## Merge Sort
