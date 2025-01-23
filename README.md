@@ -201,6 +201,7 @@
 | [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/shailendra31888/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shailendra31888/LeetCode/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/shailendra31888/LeetCode/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/shailendra31888/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/shailendra31888/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -298,6 +299,7 @@
 | [0002-add-two-numbers](https://github.com/shailendra31888/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
+| [0390-elimination-game](https://github.com/shailendra31888/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/shailendra31888/LeetCode/tree/master/0394-decode-string) |
 ## Simulation
 |  |
