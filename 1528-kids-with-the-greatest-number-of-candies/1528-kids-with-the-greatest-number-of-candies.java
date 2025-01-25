@@ -1,10 +1,9 @@
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-        PriorityQueue<Integer> p = new PriorityQueue<>(Comparator.reverseOrder());
+        int max=Integer.MIN_VALUE;
         for(int i:candies){
-            p.offer(i);
+            if(max<i) max=i;
         }
-        int max = p.poll();
        
         List<Boolean> ls = new ArrayList<>();
         for(int i=0;i<candies.length;i++){
