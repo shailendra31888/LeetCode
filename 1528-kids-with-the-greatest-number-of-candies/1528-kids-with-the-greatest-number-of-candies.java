@@ -5,12 +5,10 @@ class Solution {
             p.offer(i);
         }
         int max = p.poll();
-        for(int i=0;i<candies.length;i++){
-            candies[i]+=extraCandies;
-        }
+       
         List<Boolean> ls = new ArrayList<>();
         for(int i=0;i<candies.length;i++){
-            if(candies[i]>=max) ls.add(true);
+            if(candies[i]+extraCandies>=max) ls.add(true);
             else ls.add(false);
         }
         return ls;
