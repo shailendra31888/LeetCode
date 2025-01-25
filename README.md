@@ -30,6 +30,7 @@
 | [0496-next-greater-element-i](https://github.com/shailendra31888/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/shailendra31888/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shailendra31888/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/shailendra31888/LeetCode/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/shailendra31888/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/shailendra31888/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shailendra31888/LeetCode/tree/master/0739-daily-temperatures) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shailendra31888/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
+| [0605-can-place-flowers](https://github.com/shailendra31888/LeetCode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shailendra31888/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/shailendra31888/LeetCode/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
