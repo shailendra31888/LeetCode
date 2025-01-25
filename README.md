@@ -41,6 +41,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shailendra31888/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/shailendra31888/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/shailendra31888/LeetCode/tree/master/1127-last-stone-weight) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shailendra31888/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shailendra31888/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/shailendra31888/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/shailendra31888/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
