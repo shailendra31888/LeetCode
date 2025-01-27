@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/shailendra31888/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shailendra31888/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shailendra31888/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/shailendra31888/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shailendra31888/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shailendra31888/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -343,6 +344,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shailendra31888/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/shailendra31888/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shailendra31888/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
