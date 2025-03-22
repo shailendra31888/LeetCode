@@ -179,6 +179,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shailendra31888/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shailendra31888/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shailendra31888/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shailendra31888/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shailendra31888/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shailendra31888/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shailendra31888/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shailendra31888/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shailendra31888/LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/shailendra31888/LeetCode/tree/master/0189-rotate-array) |
@@ -263,6 +265,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shailendra31888/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shailendra31888/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/shailendra31888/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shailendra31888/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
