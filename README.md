@@ -282,6 +282,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/shailendra31888/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shailendra31888/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shailendra31888/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shailendra31888/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/shailendra31888/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/shailendra31888/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/shailendra31888/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -369,4 +370,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shailendra31888/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shailendra31888/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
