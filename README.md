@@ -34,6 +34,7 @@
 | [0523-continuous-subarray-sum](https://github.com/shailendra31888/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shailendra31888/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/shailendra31888/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shailendra31888/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/shailendra31888/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/shailendra31888/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shailendra31888/LeetCode/tree/master/0739-daily-temperatures) |
@@ -364,4 +365,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shailendra31888/LeetCode/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shailendra31888/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
