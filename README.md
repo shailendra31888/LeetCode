@@ -222,6 +222,7 @@
 | [0268-missing-number](https://github.com/shailendra31888/LeetCode/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/shailendra31888/LeetCode/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/shailendra31888/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/shailendra31888/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shailendra31888/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/shailendra31888/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -233,6 +234,7 @@
 | [0053-maximum-subarray](https://github.com/shailendra31888/LeetCode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/shailendra31888/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shailendra31888/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/shailendra31888/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
 | [0390-elimination-game](https://github.com/shailendra31888/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/shailendra31888/LeetCode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/shailendra31888/LeetCode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -373,4 +376,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shailendra31888/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shailendra31888/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shailendra31888/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
