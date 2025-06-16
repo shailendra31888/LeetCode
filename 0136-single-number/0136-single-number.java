@@ -1,15 +1,18 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        //size of the array:
-        int n = nums.length;
-
-        // XOR all the elements:
-        int xorr = 0;
-        for (int i = 0; i < n; i++) {
-            xorr = xorr ^ nums[i];
+        Arrays.sort(nums);
+        ArrayList<Integer> arr= new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            if(i!=nums.length-1 && nums[i]==nums[i+1]){
+                arr.add(nums[i]);
+            }
         }
-        return xorr;
+         for(int i=0;i<nums.length;i++){
+            if(!arr.contains(nums[i])){
+                return nums[i];
+            }
+        }
+        
+        return nums[0];
     }
-
-   
 }
