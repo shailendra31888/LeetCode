@@ -327,6 +327,7 @@
 | [0002-add-two-numbers](https://github.com/shailendra31888/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shailendra31888/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/shailendra31888/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/shailendra31888/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [0010-regular-expression-matching](https://github.com/shailendra31888/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/shailendra31888/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/shailendra31888/LeetCode/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/shailendra31888/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/shailendra31888/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/shailendra31888/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/shailendra31888/LeetCode/tree/master/1013-fibonacci-number) |
